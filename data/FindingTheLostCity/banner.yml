@@ -1,0 +1,7 @@
+####################### Banner #########################
+style: "style5 orient-left content-align-center image-position-right fullscreen onload-image-fade-in onload-content-fade-right invert"
+title : "Finding The Lost City"
+subtitle: |
+  A 4-day trek into the mountains of Colombia
+image : "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940181/P1063670_qxd3y5.jpg"
+
