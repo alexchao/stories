@@ -1,9 +1,11 @@
 <!-- Gallery -->
 <section class="wrapper style1 {{ .wrapperStyle }}" {{ with .id }} id="{{ . }}"{{ end }}>
-    <div class="inner">
-        <h2>{{ .title }}</h2>
-        <p>{{ .content | safeHTML }}</p>
-    </div>
+    {{ if or .title .content }}
+        <div class="inner medium">
+            <h2>{{ .title }}</h2>
+            <p>{{ .content | safeHTML }}</p>
+        </div>
+    {{ end }}
 
     <!-- Gallery -->
     <div class="gallery {{ .style }}">
