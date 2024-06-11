@@ -1,0 +1,21 @@
+wrapperStyle: "invert"
+style: "style1 big fixed-height lightbox onscroll-fade-in invert"
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940242/P1074194_rszqir.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940242/P1074194_rszqir.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940245/P1074192_zjquzj.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940245/P1074192_zjquzj.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940247/P1063682_invuxh.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940247/P1063682_invuxh.jpg"
+    button: "Details"
+
