@@ -267,6 +267,26 @@
 					}
 				}
 
+				&.bigger {
+					article {
+						width: 60%;
+
+						.caption {
+							padding: 2rem;
+						}
+					}
+
+					@include breakpoint('<=medium') {
+						article {
+							width: 90%;
+
+							.caption {
+								padding: 1rem;
+							}
+						}
+					}
+				}
+
 				&.biggest {
 					article {
 						width: 90%;
@@ -276,7 +296,7 @@
 						}
 					}
 
-					@include breakpoint('<=xsmall') {
+					@include breakpoint('<=medium') {
 						article {
 							width: 90%;
 
@@ -294,7 +314,7 @@
 
 						img {
 							width: unset;
-							height: 35vh;
+							height: 40vh;
 						}
 					}
 				}
