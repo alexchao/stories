@@ -6,11 +6,11 @@ pictures:
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
     image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940163/P1063645_alhzii.jpg"
-    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_fill,ar_1.5/v1717940163/P1063645_alhzii.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_fill,ar_1.33/v1717940163/P1063645_alhzii.jpg"
     button: "Details"
 
   - title: "Title"
     content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
     image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940227/P1063643_fhczyy.jpg"
-    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_fill,ar_1.5/v1717940227/P1063643_fhczyy.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_fill,ar_1.33/v1717940227/P1063643_fhczyy.jpg"
     button: "Details"

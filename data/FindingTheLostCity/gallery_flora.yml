@@ -1,4 +1,6 @@
 wrapperStyle: "invert"
+content: |
+  With the first day's hike behind us, the marvels of the deep forest started to reveal themselves to us, and our day was punctuated with insights from our guides, who shared with us the history of the region and tidbits about the local flora and fauna.
 style: "style1 big lightbox onscroll-fade-in invert"
 pictures:
   - title: "Title"

@@ -5,6 +5,13 @@
 	This Hugo theme is licensed under the Creative Commons Attribution 3.0 License.
 */
 
+.gallery-caption {
+	text-align: center;
+	font-size: 80%;
+	font-style: italic;
+	padding: 1rem;
+}
+
 /* Gallery (transitions) */
 
 	.gallery {
@@ -307,7 +314,7 @@
 					}
 				}
 
-				// Gallery where the images scale down to 
+				// Gallery where the images scale down proportionally to the same height
 				&.fixed-height {
 					article {
 						width: unset;
@@ -318,6 +325,7 @@
 						}
 					}
 				}
+
 	}
 
 /* Gallery (style2) */

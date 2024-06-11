@@ -13,4 +13,10 @@
             {{ partial "picture" . }}
         {{ end }}
     </div>
+    
+    {{ with .caption }}
+        <div class="gallery-caption">
+            {{ . }}
+        </div>
+    {{ end }}
 </section>
