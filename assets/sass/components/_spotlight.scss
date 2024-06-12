@@ -951,6 +951,66 @@
 
 	}
 
+	.spotlight.style6 {
+
+		.content {
+			@include padding(_size(padding, default), _size(padding, default));
+			@include vendor('align-self', 'center');
+			@include vendor('flex-grow', '1');
+			@include vendor('flex-shrink', '1');
+			width: 65%;
+			max-width: _size(inner);
+			margin: 0 auto;
+		}
+		
+		.image {
+			width: 100%;
+			
+			img {
+				width: 100%;
+			}
+		}
+
+		@include breakpoint('<=xlarge') {
+			.content {
+				@include padding(_size(padding, xlarge), _size(padding, xlarge));
+			}
+		}
+
+		@include breakpoint('<=large') {
+			.content {
+				@include padding(_size(padding, large), _size(padding, large));
+			}
+		}
+
+		@include breakpoint('<=medium') {
+			.content {
+				@include padding(_size(padding, medium) * 1.25, _size(padding, medium));
+				min-width: 0;
+			}
+
+			.image {
+				min-width: 0;
+			}
+		}
+
+		@include breakpoint('<=small') {
+			.content {
+				@include padding(_size(padding, small) * 1.25, _size(padding, small));
+			}
+
+			@include orientation(portrait) {
+				@include vendor('flex-direction', 'column-reverse');
+				text-align: center !important;
+
+				.content {
+					width: 100%;
+				}
+			}
+		}
+		
+	}
+
 // Mixin
 
 	@mixin color-spotlight($p: null) {
