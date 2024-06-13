@@ -1,0 +1,22 @@
+wrapperStyle: "invert"
+style: "style1 big lightbox onscroll-fade-in invert"
+content: |
+  After a full day on the trail, we ate dinner and listened as Indio and Eliana briefed us on the following day's events and the climb to Ciudad Perdida.
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940153/P1063876_unvh4n.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940153/P1063876_unvh4n.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940230/P1063662_nmdqkn.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940230/P1063662_nmdqkn.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940152/P1063870_fc0trc.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940152/P1063870_fc0trc.jpg"
+    button: "Details"

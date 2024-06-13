@@ -121,7 +121,14 @@
 		margin: 0 0 _size(element-margin) 0;
 		padding: (_size(element-margin) / 4) 0 (_size(element-margin) / 4) _size(element-margin);
 	}
-
+	
+	.fat-blockquote {
+		font-family: _headerFont(family);
+		font-weight: 300;
+		line-height: 1.375;
+		font-size: 3rem;
+	}
+	
 	code {
 		border-radius: _size(border-radius);
 		font-family: _font(family-fixed);
