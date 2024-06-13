@@ -1,0 +1,17 @@
+wrapperStyle: "invert"
+style: "style1 big lightbox onscroll-fade-in invert"
+title: "Jungle Produce"
+content: |
+  With one's eyes locked on the trail to calculate the next step, it would be easy to miss the array of fruits that dangled overhead. Indio and Eliana were quick to point them out, with a few of them — like breadfruit and lulo — being unfamiliar and hard to come by in our corners of the globe.
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940186/P1063835_incf3x.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940186/P1063835_incf3x.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940208/P1063767_hg9ksd.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940208/P1063767_hg9ksd.jpg"
+    button: "Details"

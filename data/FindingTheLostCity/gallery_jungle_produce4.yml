@@ -1,0 +1,15 @@
+wrapperStyle: "invert"
+style: "style1 big lightbox onscroll-fade-in invert"
+caption: "Sampling the local produce"
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940154/P1063774_msjm6b.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940154/P1063774_msjm6b.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940159/P1063854_lkiqai.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940159/P1063854_lkiqai.jpg"
+    button: "Details"
