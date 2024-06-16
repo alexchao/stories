@@ -1,0 +1,11 @@
+wrapperStyle: "invert"
+style: "style1 bigger lightbox onscroll-fade-in invert"
+content: |
+  <p>Our appetites sated for the moment, we each found our own spot to sit along the edge of the main plaza. And then a curious thing happened. As the other groups had already left and gone ahead, we found ourselves alone in the central city, and the expanse all around us fell silent.</p>
+  <p>For some unknown period of time, we sat in meditative silence, each of us lost in our own universe of consciousness.</p>
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940155/P1064120_mqvoxb.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_2000/v1717940155/P1064120_mqvoxb.jpg"
+    button: "Details"

@@ -1,0 +1,10 @@
+wrapperStyle: "invert"
+style: "style1 bigger lightbox onscroll-fade-in invert"
+content: |
+  Our group gathered around one of the plazas to listen to Indio and Eliana recount the history of the city, dating as far back as 800 CE, as well as the culture of the Tairona people and the troubled history of the ruins at the hands of looters in the 1970s.
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940187/P1063952_ds77ne.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_2000/v1717940187/P1063952_ds77ne.jpg"
+    button: "Details"

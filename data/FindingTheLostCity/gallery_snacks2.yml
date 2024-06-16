@@ -1,0 +1,8 @@
+wrapperStyle: "invert"
+style: "style1 biggest lightbox onscroll-fade-in invert"
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940157/P1064114_udmm43.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940157/P1064114_udmm43.jpg"
+    button: "Details"

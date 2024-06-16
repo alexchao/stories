@@ -1,0 +1,10 @@
+wrapperStyle: "invert"
+style: "style1 bigger lightbox onscroll-fade-in invert"
+content: |
+  En route to the next area, we stopped to inspect a stone slab with etchings carved into it. We learned that this age-old map of the city had been drawn to a level of accuracy and detail that even impressed the 20th-century excavationists who found it.
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940182/P1064017_inej6t.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_2000/v1717940182/P1064017_inej6t.jpg"
+    button: "Details"

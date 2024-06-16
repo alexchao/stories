@@ -74,11 +74,49 @@
 
     {{ partial "gallery" site.Data.FindingTheLostCity.gallery_camp_before_teyuna }}
     {{ partial "banner" site.Data.FindingTheLostCity.banner_quarters }}
+
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_teyuna }}
+
+    {{ partial "spotlight" site.Data.FindingTheLostCity.spotlight_steps }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_working_our_way_up }}
+    {{ partial "banner" site.Data.FindingTheLostCity.banner_green_hell }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_history_lesson }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_history_lesson2 }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_sun_over_ridge }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_stone_map }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_towards_the_center }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_city_center }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_city_center_views }}
+    {{ partial "spotlight" site.Data.FindingTheLostCity.spotlight_plaza_info }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_snacks }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_snacks2 }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_meditation }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_pigment }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_pigment2 }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_return }}
+
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_homeward_bound }}
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_farewell }}
+
+    {{ partial "spotlight" site.Data.FindingTheLostCity.spotlight_sunset }}
+
+    {{ partial "gallery" site.Data.FindingTheLostCity.gallery_colombia_map }}
     
     <section class="wrapper style1 invert">
-        <div class="inner medium align-center">
+        <div class="inner large align-center">
+            <p>Much thanks to our guides and tour operator, <a href="https://magictourcolombia.com/">Magic Tour Colombia</a>.</p>
             <p><em>Shot on the Panasonic Lumix G9 with the Lumix G 42.5mm f1.7 and Leica 15mm f1.7 lenses.</em></p>
         </div>
     </section>
+
+    <footer class="wrapper style1 align-center invert">
+        <div class="inner">
+            <p>&copy; 2024 <a href="https://alexchao.com">Alex Chao</a></p>
+        </div>
+    </footer>
+
+    {{ range .Site.Params.asset.fontawesome_js -}}
+        <script type="text/javascript" src="{{ . | absURL }}"></script>
+    {{- end }}
 
 {{ end }}

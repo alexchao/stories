@@ -1,0 +1,24 @@
+wrapperStyle: "invert"
+style: "style1 big fixed-height lightbox onscroll-fade-in invert"
+content: |
+  The steps were shallow and uneven, at times making scrambling the preferred choice.
+caption: "Working our way up to the city, one step at a time"
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940225/P1063928_bshcoy.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940225/P1063928_bshcoy.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940165/P1063930_yibdmc.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940165/P1063930_yibdmc.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940226/P1063937_mo3u6g.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940226/P1063937_mo3u6g.jpg"
+    button: "Details"
+

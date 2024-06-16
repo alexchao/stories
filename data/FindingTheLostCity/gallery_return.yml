@@ -1,0 +1,22 @@
+wrapperStyle: "invert"
+style: "style1 big fixed-height lightbox onscroll-fade-in invert"
+content: |
+  After returning to camp and a quick lunch, we were back out on the trail to head home.
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940238/P1064155_gclamb.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940238/P1064155_gclamb.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940201/P1064160_m7jab8.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940201/P1064160_m7jab8.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940240/P1064170_luzxvz.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940240/P1064170_luzxvz.jpg"
+    button: "Details"

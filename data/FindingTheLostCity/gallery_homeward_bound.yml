@@ -1,0 +1,36 @@
+wrapperStyle: "invert"
+style: "style1 big fixed-height lightbox onscroll-fade-in invert"
+title: "Day 4: Homeward Bound"
+content: |
+  Whether we owe it to the dry season or sheer luck, the weather during the entirety of our trek could not have been better. On our final day, we enjoyed some of the best views of the Sierra Nevada de Santa Marta mountains we had seen yet.
+caption: "Passing through the first camp, Camp Alfredo, on our way home"
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940243/P1074196_rwmohw.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940243/P1074196_rwmohw.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940180/P1074210_yojinh.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940180/P1074210_yojinh.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940199/P1074225_cp65uq.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940199/P1074225_cp65uq.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940190/P1074222_s2nu43.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940190/P1074222_s2nu43.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940241/P1074190_vdvmvf.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940241/P1074190_vdvmvf.jpg"
+    button: "Details"

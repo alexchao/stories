@@ -1,0 +1,15 @@
+wrapperStyle: "invert"
+style: "style1 big lightbox onscroll-fade-in invert"
+caption: "Story time with Indio and Eliana"
+pictures:
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1718465452/P1063955_jcpvpj.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1718465452/P1063955_jcpvpj.jpg"
+    button: "Details"
+
+  - title: "Title"
+    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
+    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940158/P1063964_he1zry.jpg"
+    thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940158/P1063964_he1zry.jpg"
+    button: "Details"
