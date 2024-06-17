@@ -893,6 +893,12 @@
 					min-height: 100vh;
 				}
 
+				&.wide-content {
+					.content {
+						width: (_size(inner) * 0.8);
+					}
+				}
+
 			// Content Alignment.
 				&.content-align-left {
 					text-align: left;
