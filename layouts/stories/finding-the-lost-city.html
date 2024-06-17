@@ -1,11 +1,24 @@
 {{ define "main" }}
 
     {{ partial "banner" site.Data.FindingTheLostCity.banner }}
-    {{ partial "spotlight" site.Data.FindingTheLostCity.spotlight_intro }}
+  
+    <section class="wrapper style1 invert">
+        <div class="inner medium">
+            <p>Our journey to Ciudad Perdida — the "Lost City" — began along the Rodadero beach of Santa Marta, Colombia's oldest surviving city and the rendezvous point for our 8-person party. Arriving on flights from New York, San Francisco, and Hong Kong, we checked into a modest beachfront hotel for a one-night stay, with less than 24 hours till the first step of the hike.</p>
+        </div>
+    </section>
+    
     {{ partial "spotlight" site.Data.FindingTheLostCity.spotlight_intro_sm }}
     {{ partial "gallery" site.Data.FindingTheLostCity.gallery_into_the_jungle }}
     {{ partial "gallery" site.Data.FindingTheLostCity.gallery_el_mamey }}
-    {{ partial "spotlight" site.Data.FindingTheLostCity.spotlight_setting_out }}
+  
+    <section class="wrapper style1 invert">
+        <div class="inner medium">
+            <p>Setting out after lunch, the first thirty minutes of the hike traversed a climbing, mule-trodden, motorbike-driven dirt trail with unremarkable scenery and punishing inclines. There was little cloud cover, and the heat from the sun was unrelenting.</p>
+            <p>If there was a moment for wavering confidence, this might have been it.</p>
+        </div>
+    </section>
+    
     {{ partial "banner" site.Data.FindingTheLostCity.banner_first_ridge }}
     {{ partial "spotlight" site.Data.FindingTheLostCity.spotlight_canopy }}
     {{ partial "gallery" site.Data.FindingTheLostCity.gallery_canopy }}
