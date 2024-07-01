@@ -3,26 +3,14 @@ style: "style1 big lightbox onscroll-fade-in invert"
 content: |
   Also awaiting us at the top of a few difficult climbs were strategically placed rest stops, where fresh fruit had been cut and prepared for us. Shopkeepers had set up small stands at some of these rest areas to sell their wares.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940167/P1063698_po6lcn.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940167/P1063698_po6lcn.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940167/P1063698_po6lcn.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940163/P1063842_zzxxdh.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940163/P1063842_zzxxdh.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940163/P1063842_zzxxdh.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940153/P1063657_lup2dd.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940153/P1063657_lup2dd.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940153/P1063657_lup2dd.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940160/P1063845_zvazge.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940160/P1063845_zvazge.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940160/P1063845_zvazge.jpg"
-    button: "Details"

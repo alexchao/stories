@@ -1,8 +1,6 @@
 wrapperStyle: "invert"
 style: "style1 biggest lightbox onscroll-fade-in invert"
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940170/P1063766_jwfioa.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940170/P1063766_jwfioa.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_2000/v1717940170/P1063766_jwfioa.jpg"
-    button: "Details"
+    content: "The guanábana fruit of the guanábano tree"

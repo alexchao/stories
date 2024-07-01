@@ -4,20 +4,11 @@ title: "Happy Hour &amp; Colombian Flat"
 content: |
   The local guides were no short of a sense of humor, and alluded several times to what they called "Happy Hour" — a stretch of uphill trail lasting about an hour if taken at a modest clip. It seems the name was selected to refer to one specific section, though curiously I recall encountering at least three such climbs.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940212/P1063809_qmzgm7.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940212/P1063809_qmzgm7.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940212/P1063809_qmzgm7.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940217/P1063814_ebupch.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940217/P1063814_ebupch.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940217/P1063814_ebupch.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940221/P1063860_nqpvpp.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940221/P1063860_nqpvpp.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940221/P1063860_nqpvpp.jpg"
-    button: "Details"

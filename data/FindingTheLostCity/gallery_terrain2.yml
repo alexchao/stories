@@ -3,9 +3,6 @@ style: "style1 bigger lightbox onscroll-fade-in invert"
 content: |
   In some places, the dirt walls lining the trail were exceptionally high, extending a meter or two above the ground, likely a result of the foot traffic and passing mules carving through the muddy conditions of the wet season.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940230/P1063666_hpaly8.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940230/P1063666_hpaly8.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_fill,ar_1.33/v1717940230/P1063666_hpaly8.jpg"
-    button: "Details"
 

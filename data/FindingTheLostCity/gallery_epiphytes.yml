@@ -4,21 +4,12 @@ content: |
   A unique feature of the forest vegetation was the sight of tree trunks and branches lined with <em>epiphytes</em> — plants that grow on the surface of other plants, in a non-parasitic way. Our guides pointed out that bird droppings served as one source of this overgrowth, providing a kind of nutrient cocktail that coats the tree bark.
 caption: Epiphytic vegetation in abundance
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940196/P1064152_ykwjh6.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940196/P1064152_ykwjh6.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940196/P1064152_ykwjh6.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940156/P1064086_smyrnn.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940156/P1064086_smyrnn.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940156/P1064086_smyrnn.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940219/P1063850_rnmpwi.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940219/P1063850_rnmpwi.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940219/P1063850_rnmpwi.jpg"
-    button: "Details"
 

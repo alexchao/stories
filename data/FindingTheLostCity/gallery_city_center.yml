@@ -3,8 +3,5 @@ style: "style1 bigger lightbox onscroll-fade-in invert"
 content: |
   We finally arrived at the center of the city, with it's unmistakeable tiered levels and plazas out-sizing any that we had previously seen.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940238/P1064094_ef98po.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940238/P1064094_ef98po.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_2000/v1717940238/P1064094_ef98po.jpg"
-    button: "Details"

@@ -3,27 +3,15 @@ content: |
   With the first day's hike behind us, the marvels of the deep forest started to reveal themselves to us, and our day was punctuated with insights from our guides, who shared with us the history of the region and tidbits about the local flora and fauna.
 style: "style1 big lightbox onscroll-fade-in invert"
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940214/P1063688_bjreec.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940214/P1063688_bjreec.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940214/P1063688_bjreec.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940153/P1063742_bmsz4r.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940153/P1063742_bmsz4r.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940153/P1063742_bmsz4r.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940161/P1063796_zegvzn.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940161/P1063796_zegvzn.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940161/P1063796_zegvzn.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940197/P1063702_e7gvay.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940197/P1063702_e7gvay.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940197/P1063702_e7gvay.jpg"
-    button: "Details"
 

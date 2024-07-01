@@ -3,20 +3,11 @@ style: "style1 big lightbox onscroll-fade-in invert"
 content: |
   Indio and Eliana even surprised us with an impressive array of snacks and fresh fruits.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940182/P1064107_o1zyn2.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940182/P1064107_o1zyn2.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940182/P1064107_o1zyn2.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940162/P1064110_ne6wds.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940162/P1064110_ne6wds.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940162/P1064110_ne6wds.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940169/P1064115_d1uuno.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940169/P1064115_d1uuno.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940169/P1064115_d1uuno.jpg"
-    button: "Details"

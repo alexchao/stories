@@ -3,20 +3,11 @@ style: "style1 big fixed-height lightbox onscroll-fade-in invert"
 content: |
   Continuing on, we climbed an impressive set of steps towards the central part of the city. We were reminded to step carefully and towards the center of the path, as the stones towards the edges were often loose and easily dislodged.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940237/P1064089_zehx41.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940237/P1064089_zehx41.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940237/P1064089_zehx41.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940193/P1064093_y28bci.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940193/P1064093_y28bci.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940193/P1064093_y28bci.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940172/P1064099_wqt5u9.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940172/P1064099_wqt5u9.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940172/P1064099_wqt5u9.jpg"
-    button: "Details"

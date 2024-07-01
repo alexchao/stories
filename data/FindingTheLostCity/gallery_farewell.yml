@@ -4,20 +4,11 @@ content: |
   Tired from the home stretch, we enjoyed one final meal with Indio, Eliana, and Kuko, and bid our farewells.
 caption: "Much thanks to our star crew for keeping us energized, curious, and fed"
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940191/P1074251_hxwfq1.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940191/P1074251_hxwfq1.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940191/P1074251_hxwfq1.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940188/P1074254_dsmuzv.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940188/P1074254_dsmuzv.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940188/P1074254_dsmuzv.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940192/P1074265_nuzgrg.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940192/P1074265_nuzgrg.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940192/P1074265_nuzgrg.jpg"
-    button: "Details"

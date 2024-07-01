@@ -3,15 +3,9 @@ content: |
   Amidst the sea of green were highlights of violet, cerise, and other vibrant hues, owing to the biodiversity nurtured by the forest.
 style: "style1 big lightbox onscroll-fade-in invert"
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940152/P1063701_co9807.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940152/P1063701_co9807.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940152/P1063701_co9807.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940159/P1063741_x9rwuq.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940159/P1063741_x9rwuq.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940159/P1063741_x9rwuq.jpg"
-    button: "Details"
 

@@ -3,20 +3,11 @@ style: "style1 big lightbox onscroll-fade-in invert"
 content: |
   Finishing our tour of the city, Indio led us down a pathway to an area where water once flowed through the grounds and where members of a tribe still live. Using pigment from the surrounding flora, he helped us apply a local style of face paint.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940178/P1064130_mqtrup.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940178/P1064130_mqtrup.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940178/P1064130_mqtrup.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940173/P1064139_pakt83.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940173/P1064139_pakt83.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940173/P1064139_pakt83.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940185/P1064133_s9zkh5.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940185/P1064133_s9zkh5.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940185/P1064133_s9zkh5.jpg"
-    button: "Details"

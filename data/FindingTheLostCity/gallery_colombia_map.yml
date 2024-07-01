@@ -1,8 +1,5 @@
 wrapperStyle: "invert"
 style: "style1 biggest lightbox onscroll-fade-in invert"
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940288/ciudad-perdida-map_aibare.png"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940288/ciudad-perdida-map_aibare.png"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940288/ciudad-perdida-map_aibare.png"
-    button: "Details"

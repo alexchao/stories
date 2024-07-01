@@ -5,20 +5,11 @@ content: |
   At the break of dawn, we departed from the camp for the last leg up to Teyuna, the name that local tribes sometimes use to refer to Ciudad Perdida. Since we would be returning to the same camp for lunch, we celebrated not needing to carry our full packs.
 caption: "Bridges and river crossings marked the way to the Lost City"
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940224/P1063918_aqcgco.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940224/P1063918_aqcgco.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940224/P1063918_aqcgco.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940220/P1063878_haqvp2.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940220/P1063878_haqvp2.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940220/P1063878_haqvp2.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940222/P1063916_qnjm9s.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940222/P1063916_qnjm9s.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940222/P1063916_qnjm9s.jpg"
-    button: "Details"

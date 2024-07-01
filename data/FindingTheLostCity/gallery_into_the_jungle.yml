@@ -4,20 +4,11 @@ style: "style1 big fixed-height lightbox onscroll-fade-in invert"
 content: |
   Geared up and ready to go, the next morning had us strapping our packs to the roof of a 4x4 that would transport us to the launch site, a roughly 2-hour ride on both paved highway and unforgiving dirt paths.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940154/P1063637_gj9eb6.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940154/P1063637_gj9eb6.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940154/P1063637_gj9eb6.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940214/P1074270_xfamhb.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940214/P1074270_xfamhb.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940214/P1074270_xfamhb.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940210/P1074272_iepcwy.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940210/P1074272_iepcwy.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940210/P1074272_iepcwy.jpg"
-    button: "Details"

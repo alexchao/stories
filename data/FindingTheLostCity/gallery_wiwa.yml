@@ -3,39 +3,21 @@ style: "style1 big fixed-height lightbox onscroll-fade-in invert"
 content: |
   At one rest stop, we were invited to listen as a man from a local <em>Wiwa</em> tribe described the rituals attending the passage into adulthood for young men in his culture. He also demonstrated the process by which a certain plant leaf is stripped of its flesh, in order to extract the fibers used for making cloth bags.
 pictures:
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940205/P1063757_c4s5lx.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940205/P1063757_c4s5lx.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940205/P1063757_c4s5lx.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940208/P1063721_gbocgs.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940208/P1063721_gbocgs.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940208/P1063721_gbocgs.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940177/P1063726_y9xcqv.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940177/P1063726_y9xcqv.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940177/P1063726_y9xcqv.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940184/P1063823_prxft1.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940184/P1063823_prxft1.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940184/P1063823_prxft1.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940166/P1063755_wjeblo.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940166/P1063755_wjeblo.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940166/P1063755_wjeblo.jpg"
-    button: "Details"
 
-  - title: "Title"
-    content: "Lorem ipsum dolor amet, consectetur magna etiam elit. Etiam sed ultrices."
-    image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940215/P1063820_pjvlsm.jpg"
+  - image: "https://res.cloudinary.com/dliuigk9m/image/upload/v1717940215/P1063820_pjvlsm.jpg"
     thumb: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_1000/v1717940215/P1063820_pjvlsm.jpg"
-    button: "Details"
 
