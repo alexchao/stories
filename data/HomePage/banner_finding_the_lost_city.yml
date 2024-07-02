@@ -1,0 +1,9 @@
+style: "style1 orient-left content-align-left image-position-center fullscreen onload-image-fade-in onload-content-fade-right"
+title : "Finding the Lost City"
+subtitle: |
+  A 4-day trek into the mountains of Colombia
+button:
+  label: "View"
+  link: "finding-the-lost-city"
+image: "https://res.cloudinary.com/dliuigk9m/image/upload/c_scale,w_2000/v1717940245/P1074192_zjquzj.jpg"
+
